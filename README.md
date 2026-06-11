@@ -1,4 +1,4 @@
-# Analise-de-Trafego-de-Rede-Lumma-Stealer# Análise de Tráfego de Rede — Lumma Stealer
+**Análise de Tráfego de Rede — Lumma Stealer**
 **Exercício:** malware-traffic-analysis.net — 2026-01-31  
 **Ferramenta utilizada:** Wireshark  
 **Autor:** Felipe Esquivel
